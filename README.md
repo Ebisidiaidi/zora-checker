@@ -49,6 +49,3 @@ A Python script to check Zora rewards eligibility and amounts for a list of Ethe
 
 *   **Contract Address and ABI:** The script uses the Zora Rewards contract address and ABI directly in the code.  If the contract address changes, you will need to update the `contract_address` variable in `main.py`.
 
-## `requirements.txt`
-
-Create a `requirements.txt` file with the following content:
